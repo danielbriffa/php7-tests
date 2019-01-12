@@ -1,5 +1,6 @@
 <?php
 //Enforce Return Type
+echo '<br><br>'.'Enforce Return Type'.'<br>';
 
 
 function add($number1, $number2) : int {
